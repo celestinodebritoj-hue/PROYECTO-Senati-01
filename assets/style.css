@@ -29,5 +29,7 @@ header{
 /* class= img-logo*/
 img-logo{
     height: 32px;
+    width: auto; 
+    display: block;
     
 }
